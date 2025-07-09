@@ -1,0 +1,20 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "A JavaScript-only project to practice writing utility functions and testing them with Jest.",
+  "main": "functions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "javascript",
+    "jest",
+    "testing",
+    "utility-functions"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
